@@ -1,0 +1,4 @@
+include:
+  - .cronie
+  - .syslog
+  - .logrotate
